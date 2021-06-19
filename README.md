@@ -34,10 +34,11 @@ This Repository has the multiple visualization project I have worked on, all the
 ## Screenshots
 
 #### Discount Mart Analysis
-![DiscountMartAnalysis](DiscountMartAnalysis.jpg)
+![DiscountMartAnalysis](https://user-images.githubusercontent.com/26179993/122642556-aca00f80-d128-11eb-8d43-c3420bd3f986.jpg)
 
 #### Employee Database Analysis
-![EEDatabaseAnalysis](EEDatabaseAnalysis.png)
+![EEDatabaseAnalysis](https://user-images.githubusercontent.com/26179993/122642570-bc1f5880-d128-11eb-8da0-aec4015a7e75.png)
+
 ## Features
 
 - Interactive Dashboards in all Projects
