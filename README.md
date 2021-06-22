@@ -19,12 +19,25 @@ This Repository has the multiple visualization project I have worked on, all the
 ## Projects File Details Documentation
 
 ### 1) Discount Mart Analysis
-- Project Brief about the dataset
+- Project Brief about the project and dataset
 - Discount Mart logo used in Dashboard
 - Discount Mart CSV file
 - [Viz](https://public.tableau.com/app/profile/anant.arun/viz/DiscountMartSalesAnalytics_16240947571050/Dashboard1) Link
 
-### 2) Employee Database Analysis
+### 2) Green Destination Analysis
+- Project Brief about the project and dataset
+- Green Destination CSV file
+- Green Destination logo used in Dashboard
+- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/GreenDestinationHRAnalytics_16241835152900/Dashboard1) link
+
+### 3) Superstore Sales Agent Analysis
+- Project Brief about the project and dataset
+- Superstore Orders CSV file
+- Superstore Sales Agent CSV files
+- Superstore logo used in Dashboard
+- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/SuperstoreSalesAgentAnalytics_16243007166340/Dashboard1) link
+
+### 4) Employee Database Analysis
 - Employee SQL Database Query
 - Schema Model
 - 4 different CSV Files exported from MySQL as per need
@@ -35,6 +48,12 @@ This Repository has the multiple visualization project I have worked on, all the
 
 #### Discount Mart Analysis
 ![DiscountMartAnalysis](https://user-images.githubusercontent.com/26179993/122642556-aca00f80-d128-11eb-8d43-c3420bd3f986.jpg)
+
+#### Green Destination Analysis
+![Green Destination](https://user-images.githubusercontent.com/26179993/122871027-13514300-d34c-11eb-99ac-d6878880c469.png)
+
+#### Superstore Sales Agent Analysis
+![Superstore](https://user-images.githubusercontent.com/26179993/122871147-3bd93d00-d34c-11eb-9d7c-e669346aa226.png)
 
 #### Employee Database Analysis
 ![EEDatabaseAnalysis](https://user-images.githubusercontent.com/26179993/122642570-bc1f5880-d128-11eb-8da0-aec4015a7e75.png)
