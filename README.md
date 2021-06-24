@@ -37,7 +37,11 @@ This Repository has the multiple visualization project I have worked on, all the
 - Superstore logo used in Dashboard
 - [Viz](https://public.tableau.com/app/profile/anant.arun/viz/SuperstoreSalesAgentAnalytics_16243007166340/Dashboard1) link
 
-### 4) Employee Database Analysis
+### 4) Tesla Stock Price Analysis
+- Tesla Logo used in dashboard
+- Data Google Sheet Link (https://docs.google.com/spreadsheets/d/145R-IFP53fC8s7BKyrNmZmAmZ-qW0sS9U_SQg957Yi8/)
+
+### 5) Employee Database Analysis
 - Employee SQL Database Query
 - Schema Model
 - 4 different CSV Files exported from MySQL as per need
@@ -54,6 +58,9 @@ This Repository has the multiple visualization project I have worked on, all the
 
 #### Superstore Sales Agent Analysis
 ![Superstore](https://user-images.githubusercontent.com/26179993/122871147-3bd93d00-d34c-11eb-9d7c-e669346aa226.png)
+
+#### Tesla Stock Price Analysis
+![TeslaStockPrice](https://user-images.githubusercontent.com/26179993/123262978-1bf57500-d516-11eb-983f-648ec21bf011.png)
 
 #### Employee Database Analysis
 ![EEDatabaseAnalysis](https://user-images.githubusercontent.com/26179993/122642570-bc1f5880-d128-11eb-8da0-aec4015a7e75.png)
