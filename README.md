@@ -1,8 +1,8 @@
 
-# Visualization
+# Data Visualization
 
-This Repository has the multiple visualization project using Tableau or Power BI. All the dataset , files and links used are provided in the Repository.
-It also includes visualizationa from events like "Make Over Monday" that happens weekly.
+This Repository contains the multiple visualization projects. All the dataset , files and links used are provided in the Repository.
+It also includes visualizationa from events like "Make Over Monday" that happens on weekly basis.
 
 
 ## Authors
@@ -45,17 +45,27 @@ It also includes visualizationa from events like "Make Over Monday" that happens
 - [Viz](https://public.tableau.com/app/profile/anant.arun/viz/America2020VoteAnalysis/Dashboard1) Link
 
 ### 5) Gender Inequality and HIV AIDS Analysis in Africa
-- Dataset files
-- Transperant Logo
+- Dataset CSV Files
+- Logo for Visualization from transparentlogo.com
 - Project brief
 - [Viz](https://public.tableau.com/app/profile/anant.arun/viz/GenderInequalityHIVInfectionsAfrica/Visualize) Link
 
-### 6) Tesla Stock Price Analysis
+### 6) Global Warming Analysis
+- Dataset CSV File
+- Logo from transperentpng.com
+- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/GlobalWarmingAnalysis_16258118395930/Dashboard1) Link
+
+### 7) India Coal Mine Production Analysis
+- Dataset CSV File
+- Logo from factorypng.com
+- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/IndianCoalMineProduction_16258981074680/IndiaCoalMines) Link
+
+### 8) Tesla Stock Price Analysis
 - Tesla Logo used in dashboard
 - Data Google Sheet Link (https://docs.google.com/spreadsheets/d/145R-IFP53fC8s7BKyrNmZmAmZ-qW0sS9U_SQg957Yi8/)
 - Note - Due to system performance difference, live daashboard may not be visible on some system thus only screenshot provided below.
 
-### 7) Employee Database Analysis
+### 9) Employee Database Analysis
 - Employee SQL Database Query
 - Schema Model
 - 4 different CSV Files exported from MySQL as per need
@@ -79,6 +89,12 @@ It also includes visualizationa from events like "Make Over Monday" that happens
 #### Gender Inequality and HIV AIDS Analysis in Africa
 ![Gender Inequality in HIV Infections in Adolescents Africa](https://user-images.githubusercontent.com/26179993/124877296-9202dd00-dfe8-11eb-9e15-2fd9e43363a1.png)
 
+#### Global Warming Analysis
+![Global Warming](https://user-images.githubusercontent.com/26179993/125162970-8a8a3200-e1a8-11eb-9377-b404b96b1801.png)
+
+#### India Coal Mine Production Analysis
+![India Coal Mine Production](https://user-images.githubusercontent.com/26179993/125162978-94139a00-e1a8-11eb-8135-e2cc2f79d295.png)
+
 #### Tesla Stock Price Analysis
 ![TeslaStockPrice](https://user-images.githubusercontent.com/26179993/123262978-1bf57500-d516-11eb-983f-648ec21bf011.png)
 
@@ -94,7 +110,7 @@ It also includes visualizationa from events like "Make Over Monday" that happens
   
 ## Tech Stack
 
-**Software:** Tableau Public, Power BI , MySQL , SQLite
+**Software:** Tableau Public, Power BI , MySQL , SQLite , Microsoft Excel , Libre Office
 
 **Datasets:** CSV Files , XSLX files , Database Queries(using MySQL or SQLite)
 
@@ -124,5 +140,3 @@ Click the Viz Link in Project File Details Documentation Section.
 #### 4) How to Contact me?
 
 Check Feedback panel.
-
-  
