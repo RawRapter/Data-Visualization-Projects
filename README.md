@@ -60,12 +60,29 @@ It also includes visualizationa from events like "Make Over Monday" that happens
 - Logo from factorypng.com
 - [Viz](https://public.tableau.com/app/profile/anant.arun/viz/IndianCoalMineProduction_16258981074680/IndiaCoalMines) Link
 
-### 8) Tesla Stock Price Analysis
+### 8) Northwind Shipping Analysis
+- Multiple Dataset CSV File
+- Connection Details PDF
+- Project Brief & Readme file for source detail
+- Logo from transperentpng.com
+- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/NorthwindShippingAnalytics_16244542218230/Dashboard1) Link
+
+### 9) Movies and Streaming Platform Analysis
+- Multiple Dataset CSV File
+- Logo from transperentpng.com
+- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/MoviesAnalysis_16260769588640/Movie) Link
+
+### 10) UK Covid Vaccine Analysis
+- Dataset CSV File
+- Logo from transperentpng.com
+- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/UkCovidVaccinationAnalysis/Dashboard1) Link
+
+### 11) Tesla Stock Price Analysis
 - Tesla Logo used in dashboard
 - Data Google Sheet Link (https://docs.google.com/spreadsheets/d/145R-IFP53fC8s7BKyrNmZmAmZ-qW0sS9U_SQg957Yi8/)
 - Note - Due to system performance difference, live daashboard may not be visible on some system thus only screenshot provided below.
 
-### 9) Employee Database Analysis
+### 12) Employee Database Analysis
 - Employee SQL Database Query
 - Schema Model
 - 4 different CSV Files exported from MySQL as per need
@@ -94,6 +111,15 @@ It also includes visualizationa from events like "Make Over Monday" that happens
 
 #### India Coal Mine Production Analysis
 ![India Coal Mine Production](https://user-images.githubusercontent.com/26179993/125162978-94139a00-e1a8-11eb-8135-e2cc2f79d295.png)
+
+#### Northwind Shipping Analysis
+![Northwind](https://user-images.githubusercontent.com/26179993/125458590-4a07f270-595e-4bc2-8fb9-10bbbd563f8e.png)
+
+#### Movies and Streaming Platform Analysis
+![Movies Analysis](https://user-images.githubusercontent.com/26179993/125458711-a57a12aa-9ab0-49cb-abbf-a8d15c5c30a6.png)
+
+#### UK Covid Vaccine Analysis
+![Uk Vaccination Analysis](https://user-images.githubusercontent.com/26179993/125458805-21852e85-1bf6-47d4-b6f6-2a65aa1080e4.png)
 
 #### Tesla Stock Price Analysis
 ![TeslaStockPrice](https://user-images.githubusercontent.com/26179993/123262978-1bf57500-d516-11eb-983f-648ec21bf011.png)
