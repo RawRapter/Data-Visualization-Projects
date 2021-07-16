@@ -88,6 +88,14 @@ It also includes visualizationa from events like "Make Over Monday" that happens
 - 4 different CSV Files exported from MySQL as per need
 - [Viz](https://public.tableau.com/app/profile/anant.arun/viz/TestEmployeeDBViz/Dashboard1) Link
 
+### 13) UK Fossil Fuel VS Renewable Analysis
+- Dataset Only
+- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/UKFossilFuelVSRenewableAnalysis/FossilFuels) link
+
+### 14) Valentines Day Analysis (Signle Analysis 4 Ways)
+- Dataset Only
+- Logo from transperantpng.com
+- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/ValentinesDayAnalysis/ValentinesDay?publish=yes) link
   
 ## Screenshots
 
@@ -126,6 +134,12 @@ It also includes visualizationa from events like "Make Over Monday" that happens
 
 #### Employee Database Analysis
 ![EEDatabaseAnalysis](https://user-images.githubusercontent.com/26179993/122642570-bc1f5880-d128-11eb-8da0-aec4015a7e75.png)
+
+#### UK Fossil Fuel VS Renewable Analysis
+![UK Fossil Fuels Analysis](https://user-images.githubusercontent.com/26179993/125967404-3a5ce6c0-7f3d-40dd-aa01-fa7adef46bae.png)
+
+#### Valentine's Day Analysis
+![Valentines Day Analysis](https://user-images.githubusercontent.com/26179993/125967461-30d8a69e-b1be-4a94-bc86-dd27c7e206d3.png)
 
 ## Features
 
