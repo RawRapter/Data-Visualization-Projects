@@ -89,13 +89,21 @@ It also includes visualizationa from events like "Make Over Monday" that happens
 - [Viz](https://public.tableau.com/app/profile/anant.arun/viz/TestEmployeeDBViz/Dashboard1) Link
 
 ### 13) UK Fossil Fuel VS Renewable Analysis
-- Dataset Only
+- Dataset xlsx file
 - [Viz](https://public.tableau.com/app/profile/anant.arun/viz/UKFossilFuelVSRenewableAnalysis/FossilFuels) link
 
 ### 14) Valentines Day Analysis (Signle Analysis 4 Ways)
-- Dataset Only
+- Dataset xlsx file
 - Logo from transperantpng.com
 - [Viz](https://public.tableau.com/app/profile/anant.arun/viz/ValentinesDayAnalysis/ValentinesDay?publish=yes) link
+
+### 15) UK Export Import Analysis
+- Dataset xlsx file
+- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/UKExportsAnalysis/Dashboard1) link
+
+### 16) COVID Mortality Rate Analysis
+- Dataset xlsx file
+- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/COVID-19MortalityRateAnalysis/Dashboard1) link
   
 ## Screenshots
 
@@ -141,10 +149,16 @@ It also includes visualizationa from events like "Make Over Monday" that happens
 #### Valentine's Day Analysis
 ![Valentines Day Analysis](https://user-images.githubusercontent.com/26179993/125967461-30d8a69e-b1be-4a94-bc86-dd27c7e206d3.png)
 
+#### UK Export Import Analysis
+![Uk Exports Analysis](https://user-images.githubusercontent.com/26179993/126340116-cbe43212-a91a-41b7-8336-3b79d779454e.png)
+
+#### COVID Mortality Rate By Ethnicity Analysis
+![COVID 19 Mortality Rate](https://user-images.githubusercontent.com/26179993/126340185-5f41534f-243d-4831-a1a0-3f20badd23c4.png)
+
 ## Features
 
 - Interactive Dashboards in all Projects
-- Multiple Categories of Datasets are used - CSV, SQL and web.
+- Dataset Formats - CSV, SQL reports, xslx and web.
 - Cross platform Dashboards
 
   
