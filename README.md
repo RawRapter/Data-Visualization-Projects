@@ -1,9 +1,18 @@
-
 # Data Visualization
 
-This Repository contains the multiple visualization projects. All the dataset , files and links used are provided in the Repository.
+This Repository contains the multiple visualization Dashboards/projects. All the dataset , files and links used are provided in the Repository.
 It also includes visualizationa from events like "Make Over Monday" that happens on weekly basis.
 
+<hr>
+
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MicrosoftExcel-informational?style=flat&logo=MicrosoftExcel&logoColor=white&color=2bbc8a)
+
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RawRapter/Data-Visualization-Projects">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/RawRapter/Data-Visualization-Projects">
+<hr>
 
 ## Authors
 
@@ -90,21 +99,32 @@ It also includes visualizationa from events like "Make Over Monday" that happens
 
 ### 13) UK Fossil Fuel VS Renewable Analysis
 - Dataset xlsx file
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/UKFossilFuelVSRenewableAnalysis/FossilFuels) link
+- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/UKFossilFuelVSRenewableAnalysis/FossilFuels) Link
 
 ### 14) Valentines Day Analysis (Signle Analysis 4 Ways)
 - Dataset xlsx file
 - Logo from transperantpng.com
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/ValentinesDayAnalysis/ValentinesDay?publish=yes) link
+- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/ValentinesDayAnalysis/ValentinesDay?publish=yes) Link
 
 ### 15) UK Export Import Analysis
 - Dataset xlsx file
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/UKExportsAnalysis/Dashboard1) link
+- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/UKExportsAnalysis/Dashboard1) Link
 
 ### 16) COVID Mortality Rate Analysis
 - Dataset xlsx file
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/COVID-19MortalityRateAnalysis/Dashboard1) link
-  
+- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/COVID-19MortalityRateAnalysis/Dashboard1) Link
+
+### 17) Birthday Date Analysis
+- Dataset CSV File
+- Logo from transperantpng.com
+- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/HowPopularisyourbirthday_16269340832190/Story1) Link
+
+### 18) US Never Married Analysis
+- Dataset xlsx file
+- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/USNeverMarriedAnalysis/Dashboard1) Link
+
+<hr>
+
 ## Screenshots
 
 #### Discount Mart Analysis
@@ -155,11 +175,22 @@ It also includes visualizationa from events like "Make Over Monday" that happens
 #### COVID Mortality Rate By Ethnicity Analysis
 ![COVID 19 Mortality Rate](https://user-images.githubusercontent.com/26179993/126340185-5f41534f-243d-4831-a1a0-3f20badd23c4.png)
 
+#### Birthday Date Analysis
+![How Popular Your bday 1](https://user-images.githubusercontent.com/26179993/126859556-266526b2-1938-48a9-8621-5372efc19011.png)
+![How Popular Your bday 2](https://user-images.githubusercontent.com/26179993/126859558-ca23e7cb-ab45-4c96-9f24-3b7e1a0d60e2.png)
+
+#### Never Married Analysis
+![Never Married Analysis](https://user-images.githubusercontent.com/26179993/126859582-28fe16e8-6bd5-41c7-bf3c-f568ee3b2072.png)
+
+
+<hr>
+
 ## Features
 
 - Interactive Dashboards in all Projects
 - Dataset Formats - CSV, SQL reports, xslx and web.
 - Cross platform Dashboards
+- In Multiple Designs & Styles
 
   
 ## Tech Stack
@@ -194,3 +225,7 @@ Click the Viz Link in Project File Details Documentation Section.
 #### 4) How to Contact me?
 
 Check Feedback panel.
+
+#### 5) Why it oversized or smaller on my screen?
+
+Few of them have automatic screen adjust but some are fixed due to the data visual adjustments, though all these are perfect for 16.6 Inch screen.
