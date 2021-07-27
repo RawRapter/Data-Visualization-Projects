@@ -123,6 +123,15 @@ It also includes visualizationa from events like "Make Over Monday" that happens
 - Dataset xlsx file
 - [Viz](https://public.tableau.com/app/profile/anant.arun/viz/USNeverMarriedAnalysis/Dashboard1) Link
 
+### 19) Wildlife Population Change Analysis
+- Dataset xlsx file
+- logo from transperantpng.com
+- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/HowareWildlifePopulationChangingChartDesigns/Dashboard1) Link
+
+### 20) US Racial Breakdown by States Analysis
+- 2 Datasets one for main data and another for creating tilemap
+- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/AmericasRacialBreakdownbystates/RaceAnalysis) Link
+
 <hr>
 
 ## Screenshots
@@ -182,6 +191,11 @@ It also includes visualizationa from events like "Make Over Monday" that happens
 #### Never Married Analysis
 ![Never Married Analysis](https://user-images.githubusercontent.com/26179993/126859582-28fe16e8-6bd5-41c7-bf3c-f568ee3b2072.png)
 
+#### Wildlife Population Change Analysis
+![Wildlife Changing](https://user-images.githubusercontent.com/26179993/127174855-9db1c416-d85a-4d6b-bc44-81496ddf00f5.png)
+
+#### US Racial breakdown by States Analysis
+![Americas Racial Breakdown](https://user-images.githubusercontent.com/26179993/127174867-5b4fabfb-f6ac-444d-b600-c056966d822c.png)
 
 <hr>
 
