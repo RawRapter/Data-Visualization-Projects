@@ -132,6 +132,14 @@ It also includes visualizationa from events like "Make Over Monday" that happens
 - 2 Datasets one for main data and another for creating tilemap
 - [Viz](https://public.tableau.com/app/profile/anant.arun/viz/AmericasRacialBreakdownbystates/RaceAnalysis) Link
 
+### 21) World Mobile Data Analysis
+- Dataset xlsx file
+- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/World1GBCostAnalysis/India) Link
+
+### 22) Bike Collision in London Analysis
+- Dataset xlsx file
+- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/BikeCollisioninLondonAnalysis/Cycle) Link
+
 <hr>
 
 ## Screenshots
@@ -197,6 +205,12 @@ It also includes visualizationa from events like "Make Over Monday" that happens
 #### US Racial breakdown by States Analysis
 ![Americas Racial Breakdown](https://user-images.githubusercontent.com/26179993/127174867-5b4fabfb-f6ac-444d-b600-c056966d822c.png)
 
+#### World Mobile Data Analysis
+![Mobile Data Analysis](https://user-images.githubusercontent.com/26179993/128192670-6d6251f0-204a-4f8d-836c-08a9275a7686.png)
+
+#### Bike Collision in London Analysis
+![Bike Collision Analysis](https://user-images.githubusercontent.com/26179993/128192679-4638b25a-778d-4480-9ca7-16fe635ac7ad.png)
+
 <hr>
 
 ## Features
@@ -243,3 +257,8 @@ Check Feedback panel.
 #### 5) Why it oversized or smaller on my screen?
 
 Few of them have automatic screen adjust but some are fixed due to the data visual adjustments, though all these are perfect for 16.6 Inch screen.
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rawrapter.github.io/portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anantarun/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnantArun4)
