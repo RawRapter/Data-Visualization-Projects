@@ -1,7 +1,7 @@
 # Data Visualization
 
 This Repository contains the multiple visualization Dashboards/projects. All the dataset , files and links used are provided in the Repository.
-It also includes visualizationa from events like "Make Over Monday" that happens on weekly basis.
+It also includes visualizations from events like "Make Over Monday" that happens on weekly basis.
 
 <hr>
 
@@ -26,119 +26,37 @@ It also includes visualizationa from events like "Make Over Monday" that happens
  - [Andy Kriebel](https://www.youtube.com/channel/UCTlX7UpqASrldmx5_CpG3CA) Thank you so much for organising such events
  - [My Self](https://rawrapter.github.io/portfolio/) for working hard.
 
-  
-## Projects File Details Documentation
 
-### 1) Discount Mart Analysis
-- Project Brief about the project and dataset
-- Discount Mart logo used in Dashboard
-- Discount Mart CSV file
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/DiscountMartSalesAnalytics_16240947571050/Dashboard1) Link
+<hr>
 
-### 2) Green Destination Analysis
-- Project Brief about the project and dataset
-- Green Destination CSV file
-- Green Destination logo used in Dashboard
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/GreenDestinationHRAnalytics_16241835152900/Dashboard1) Link
+# Projects File Details Documentation
 
-### 3) Superstore Sales Agent Analysis
-- Project Brief about the project and dataset
-- Superstore Orders CSV file
-- Superstore Sales Agent CSV files
-- Superstore logo used in Dashboard
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/SuperstoreSalesAgentAnalytics_16243007166340/Dashboard1) Link
 
-### 4) America 2020 Vote Analysis
-- Dataset files
-- America Flag Logo from transperant png
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/America2020VoteAnalysis/Dashboard1) Link
+|Project No.|Viz Name| Dataset|Logo Used|Link|
+|:-|:-	|:-:	|:-:	|:-:	|
+|1|Discount Mart Analysis|1 CSV File|Yes|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/DiscountMartSalesAnalytics_16240947571050/Dashboard1)|
+|2|Green Destination Analysis|1 CSV File|Yes|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/GreenDestinationHRAnalytics_16241835152900/Dashboard1)|
+|3|Superstore Sales Agent Analysis|2 CSV File|Yes|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/SuperstoreSalesAgentAnalytics_16243007166340/Dashboard1)|
+|4|America 2020 Vote Analysis|1 CSV , 1 xlsx file|Yes|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/America2020VoteAnalysis/Dashboard1)|
+|5|Gender Inequality and HIV AIDS Analysis in Africa|1 CSV File|Yes|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/GenderInequalityHIVInfectionsAfrica/Visualize)|
+|6|Global Warming Analysis|1 CSV File|Yes|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/GlobalWarmingAnalysis_16258118395930/Dashboard1)|
+|7|India Coal Mine Production Analysis|1 CSV File|Yes|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/IndianCoalMineProduction_16258981074680/IndiaCoalMines)|
+|8|Northwind Shipping Analysis|Multiple CSV Files|Yes|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/NorthwindShippingAnalytics_16244542218230/Dashboard1)|
+|9|Movies and Streaming Platform Analysis|Multiple CSV Files|Yes|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/MoviesAnalysis_16260769588640/Movie)|
+|10|UK Covid Vaccine Analysis|1 CSV File|Yes|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/UkCovidVaccinationAnalysis/Dashboard1)|
+|11|Tesla Stock Price Analysis|Google Sheet [Link](https://docs.google.com/spreadsheets/d/145R-IFP53fC8s7BKyrNmZmAmZ-qW0sS9U_SQg957Yi8/)|Yes|Due to system performance difference <br>, live dashboard may not be visible on <br>some system thus only screenshot provided below.|
+|12|Employee Database Analysis|4 CSV Files<br>imported from MySQL|No|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/TestEmployeeDBViz/Dashboard1)|
+|13|UK Fossil Fuel VS Renewable Analysis|1 xlsx File|No|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/UKFossilFuelVSRenewableAnalysis/FossilFuels)|
+|14|Valentines Day Analysis (Signle Analysis 4 Ways)|1 xlsx File|Yes|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/ValentinesDayAnalysis/ValentinesDay?publish=yes)|
+|15|UK Export Import Analysis|1 xlsx File|No|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/UKExportsAnalysis/Dashboard1)|
+|16|COVID Mortality Rate Analysis|1 xlsx File|No|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/COVID-19MortalityRateAnalysis/Dashboard1)|
+|17|Birthday Date Analysis|1 CSV File|Yes|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/HowPopularisyourbirthday_16269340832190/Story1)|
+|18|US Never Married Analysis|1 xlsx File|No|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/HowareWildlifePopulationChangingChartDesigns/Dashboard1)|
+|19|Wildlife Population Change Analysis|1 xlsx File|Yes|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/HowareWildlifePopulationChangingChartDesigns/Dashboard1)|
+|20|US Racial Breakdown by States Analysis|1 xlsx File|No|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/AmericasRacialBreakdownbystates/RaceAnalysis)|
+|21|World Mobile Data Analysis|1 xlsx File|No|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/World1GBCostAnalysis/India)|
+|22|Bike Collision in London Analysis|1 xlsx File|Yes|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/BikeCollisioninLondonAnalysis/Cycle)|
 
-### 5) Gender Inequality and HIV AIDS Analysis in Africa
-- Dataset CSV Files
-- Logo for Visualization from transparentlogo.com
-- Project brief
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/GenderInequalityHIVInfectionsAfrica/Visualize) Link
-
-### 6) Global Warming Analysis
-- Dataset CSV File
-- Logo from transperentpng.com
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/GlobalWarmingAnalysis_16258118395930/Dashboard1) Link
-
-### 7) India Coal Mine Production Analysis
-- Dataset CSV File
-- Logo from factorypng.com
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/IndianCoalMineProduction_16258981074680/IndiaCoalMines) Link
-
-### 8) Northwind Shipping Analysis
-- Multiple Dataset CSV File
-- Connection Details PDF
-- Project Brief & Readme file for source detail
-- Logo from transperentpng.com
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/NorthwindShippingAnalytics_16244542218230/Dashboard1) Link
-
-### 9) Movies and Streaming Platform Analysis
-- Multiple Dataset CSV File
-- Logo from transperentpng.com
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/MoviesAnalysis_16260769588640/Movie) Link
-
-### 10) UK Covid Vaccine Analysis
-- Dataset CSV File
-- Logo from transperentpng.com
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/UkCovidVaccinationAnalysis/Dashboard1) Link
-
-### 11) Tesla Stock Price Analysis
-- Tesla Logo used in dashboard
-- Data Google Sheet Link (https://docs.google.com/spreadsheets/d/145R-IFP53fC8s7BKyrNmZmAmZ-qW0sS9U_SQg957Yi8/)
-- Note - Due to system performance difference, live daashboard may not be visible on some system thus only screenshot provided below.
-
-### 12) Employee Database Analysis
-- Employee SQL Database Query
-- Schema Model
-- 4 different CSV Files exported from MySQL as per need
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/TestEmployeeDBViz/Dashboard1) Link
-
-### 13) UK Fossil Fuel VS Renewable Analysis
-- Dataset xlsx file
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/UKFossilFuelVSRenewableAnalysis/FossilFuels) Link
-
-### 14) Valentines Day Analysis (Signle Analysis 4 Ways)
-- Dataset xlsx file
-- Logo from transperantpng.com
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/ValentinesDayAnalysis/ValentinesDay?publish=yes) Link
-
-### 15) UK Export Import Analysis
-- Dataset xlsx file
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/UKExportsAnalysis/Dashboard1) Link
-
-### 16) COVID Mortality Rate Analysis
-- Dataset xlsx file
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/COVID-19MortalityRateAnalysis/Dashboard1) Link
-
-### 17) Birthday Date Analysis
-- Dataset CSV File
-- Logo from transperantpng.com
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/HowPopularisyourbirthday_16269340832190/Story1) Link
-
-### 18) US Never Married Analysis
-- Dataset xlsx file
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/USNeverMarriedAnalysis/Dashboard1) Link
-
-### 19) Wildlife Population Change Analysis
-- Dataset xlsx file
-- logo from transperantpng.com
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/HowareWildlifePopulationChangingChartDesigns/Dashboard1) Link
-
-### 20) US Racial Breakdown by States Analysis
-- 2 Datasets one for main data and another for creating tilemap
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/AmericasRacialBreakdownbystates/RaceAnalysis) Link
-
-### 21) World Mobile Data Analysis
-- Dataset xlsx file
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/World1GBCostAnalysis/India) Link
-
-### 22) Bike Collision in London Analysis
-- Dataset xlsx file
-- [Viz](https://public.tableau.com/app/profile/anant.arun/viz/BikeCollisioninLondonAnalysis/Cycle) Link
 
 <hr>
 
@@ -257,6 +175,14 @@ Check Feedback panel.
 #### 5) Why it oversized or smaller on my screen?
 
 Few of them have automatic screen adjust but some are fixed due to the data visual adjustments, though all these are perfect for 16.6 Inch screen.
+
+#### 6) From which sites logos has been used?
+
+tranparentpng.com , unsplash , freepng.com
+
+#### 7) What does Viz Creation Resources folder includes?
+
+It includes resource files used for visualization like tile map.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rawrapter.github.io/portfolio/)
