@@ -56,6 +56,7 @@ It also includes visualizations from events like "Make Over Monday" that happens
 |20|US Racial Breakdown by States Analysis|1 xlsx File|No|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/AmericasRacialBreakdownbystates/RaceAnalysis)|
 |21|World Mobile Data Analysis|1 xlsx File|No|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/World1GBCostAnalysis/India)|
 |22|Bike Collision in London Analysis|1 xlsx File|Yes|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/BikeCollisioninLondonAnalysis/Cycle)|
+|23|CEO-Worker Compensation Ratio|1 xslx File|No|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/CEOtoWorkerCompensationRatio_16288381828320/Dashboard1?publish=yes)
 
 
 <hr>
@@ -128,6 +129,9 @@ It also includes visualizations from events like "Make Over Monday" that happens
 
 #### Bike Collision in London Analysis
 ![Bike Collision Analysis](https://user-images.githubusercontent.com/26179993/128192679-4638b25a-778d-4480-9ca7-16fe635ac7ad.png)
+
+#### CEO - Worker COmpensation Ratio Analysis
+![CEO-to-worker analysis](https://user-images.githubusercontent.com/26179993/129318360-e230c163-9647-401c-b656-0617ed104a36.png)
 
 <hr>
 
