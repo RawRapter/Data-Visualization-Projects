@@ -58,6 +58,7 @@ It also includes visualizations from events like "Make Over Monday" that happens
 |22|Bike Collision in London Analysis|1 xlsx File|Yes|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/BikeCollisioninLondonAnalysis/Cycle)|
 |23|CEO-Worker Compensation Ratio|1 xslx File|No|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/CEOtoWorkerCompensationRatio_16288381828320/Dashboard1?publish=yes)|
 |24|Mortality Rate in England and Wales|1 CSV File|No|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/MortalityRateforEnglandandWales/Dashboard1)|
+|25|Entry Level Linkedin Job Posting|1 xslx File|No|[Viz](https://public.tableau.com/app/profile/anant.arun/viz/TheEntryLevelJobMirage_16298761223000/Job?publish=yes)|
 
 
 <hr>
@@ -136,6 +137,9 @@ It also includes visualizations from events like "Make Over Monday" that happens
 
 #### Mortality Rate in England and Wales
 ![England and Wales Mortality Rate analysis](https://user-images.githubusercontent.com/26179993/129841571-8d9c065b-a3ed-4cf7-a5ef-2d51a3f17710.png)
+
+#### The Entry Level LinkedIn Job Posting Analysis
+![TheEntryLevelJobMirage](https://user-images.githubusercontent.com/26179993/130745403-1a80c182-fa0e-40b2-ada1-ff662e239d8f.png)
 
 <hr>
 
